@@ -1,0 +1,11 @@
+C:\Users\Wiz\Desktop\IGME 201\Singleton\bin\Debug\Singleton.exe.config
+C:\Users\Wiz\Desktop\IGME 201\Singleton\bin\Debug\Singleton.exe
+C:\Users\Wiz\Desktop\IGME 201\Singleton\bin\Debug\Singleton.pdb
+C:\Users\Wiz\Desktop\IGME 201\Singleton\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Wiz\Desktop\IGME 201\Singleton\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Wiz\Desktop\IGME 201\Singleton\obj\Debug\Singleton.csproj.AssemblyReference.cache
+C:\Users\Wiz\Desktop\IGME 201\Singleton\obj\Debug\Singleton.csproj.SuggestedBindingRedirects.cache
+C:\Users\Wiz\Desktop\IGME 201\Singleton\obj\Debug\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\Wiz\Desktop\IGME 201\Singleton\obj\Debug\Singleton.csproj.CopyComplete
+C:\Users\Wiz\Desktop\IGME 201\Singleton\obj\Debug\Singleton.exe
+C:\Users\Wiz\Desktop\IGME 201\Singleton\obj\Debug\Singleton.pdb
